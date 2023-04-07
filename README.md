@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on personal programming projects,while studying for my B.Tech in Information Technology at GGSIPU. <br><br>I'm looking to collaborate on open-source software development projects and expand my knowledge in areas such as cybersecurity and testing. <br><br>I'm seeking help with advanced topics in software development, database management, and web programming. <br><br>I'm currently learning Python, Django, and React. <br><br>Feel free to ask me about programming languages, web development, and my hobbies. <br><br>A fun fact about me is that I enjoy stargazing and have a keen interest in astronomy and cosmology.
+I'm currently working on personal programming projects,while studying for my B.Tech in Information Technology at GGSIPU. <br><br>I'm looking to collaborate on open-source software development and  web app Development projects and expand my knowledge in areas such as backend development, cybersecurity and testing. <br><br>I'm seeking help with advanced topics in software development, database management, and web programming. <br><br>I'm currently learning Python, Django, and React. <br><br>Feel free to ask me about programming languages, web development, and my hobbies. <br><br>A fun fact about me is that I enjoy stargazing and have a keen interest in astronomy and cosmology.
 
 
 ## 🌐 Socials:
