@@ -9,6 +9,8 @@ I'm currently working on personal programming projects,while studying for my B.T
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=auscode&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
+
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
