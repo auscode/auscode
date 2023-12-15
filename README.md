@@ -1,10 +1,14 @@
 # 💫 About Me:
 Hey, This is Harshit Mishra🙂
+<br>
 Doing ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) as Front End
+<br>
 and  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) as Backend
+<br>
 applying ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) as DataBase
+<br>
 while using ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) for RESTAPI
-
+<br>
 ![Harshit github stats](https://github-readme-stats.vercel.app/api?username=auscode&show_icons=true&hide=["issues"])
 
 ## 🌐 Socials:
