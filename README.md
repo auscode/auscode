@@ -1,6 +1,8 @@
 # 💫 About Me:
 I'm currently working on personal programming projects,while studying for my B.Tech in Information Technology at GGSIPU. <br><br>I'm looking to collaborate on open-source software development and  web app Development projects and expand my knowledge in areas such as backend development, cybersecurity and testing. <br><br>I'm seeking help with advanced topics in software development, database management, and web programming. <br><br>I'm currently learning Python, Django, and React. <br><br>Feel free to ask me about programming languages, web development, and my hobbies. <br><br>A fun fact about me is that I enjoy stargazing and have a keen interest in astronomy and cosmology.
 
+![Harshit github stats](https://github-readme-stats.vercel.app/api?username=auscode&show_icons=true&hide=["issues"])
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maiharshithu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshittext) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/itsharshit_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@maiharshithu) 
 
