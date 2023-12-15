@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm currently working on personal programming projects,while studying for my B.Tech in Information Technology at GGSIPU. <br><br>I'm looking to collaborate on open-source software development and  web app Development projects and expand my knowledge in areas such as backend development, cybersecurity and testing. <br><br>I'm seeking help with advanced topics in software development, database management, and web programming. <br><br>I'm currently learning Python, Django, and React. <br><br>Feel free to ask me about programming languages, web development, and my hobbies. <br><br>A fun fact about me is that I enjoy stargazing and have a keen interest in astronomy and cosmology.
+Hey, This is Harshit Mishra🙂
+Doing ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) as Front End
+and  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) as Backend
+applying ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) as DataBase
+while using ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) for RESTAPI
 
 ![Harshit github stats](https://github-readme-stats.vercel.app/api?username=auscode&show_icons=true&hide=["issues"])
 
