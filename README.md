@@ -8,6 +8,7 @@ Hey, This is Harshit Mishra🙂
 🗑️applying ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) as DataBase
 <br>
 📜while using ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) for RESTAPI
+<br>
 Looking for freeelenace project 😎😎
 <br>
 | GitHub Stats | Streak Stats | Top Languages |
