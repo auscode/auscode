@@ -11,9 +11,6 @@ Hey, This is Harshit Mishra🙂
 <br>
 Looking for freeelenace project 😎😎
 <br>
-
-Certainly! Here's the information organized into a two-column table:
-
 | GitHub Stats | Streak Stats | Top Languages |
 |--------------|--------------|---------------|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=auscode&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=auscode&theme=dark&hide_border=false) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=auscode&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
