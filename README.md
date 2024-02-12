@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a Full stack Developer and Engineer from heart. Intrested in React, Django, JavaScript, C++, Python ,web development, app development, DSA, Cybersecurity and all ...
 <br>
-Check Out My ![PortFolio](https://auscode.github.io/Portfolio/)
+Check Out My [PortFolio](https://auscode.github.io/Portfolio/)
 
 <br>
 | GitHub Stats | Streak Stats | Top Languages |
