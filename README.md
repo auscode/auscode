@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Full stack Developer and Engineer from heart. Intrested in React, Django, JavaScript, C++, Python ,web development, app development, DSA, Cybersecurity and all ...
+I am a Full stack Developer and Engineer from heart. Intrested in React, Django, JavaScript, C++, Python ,web development, app development, DSA and all ...
 <br>
 | GitHub Stats | Streak Stats |
 |--------------|--------------|
