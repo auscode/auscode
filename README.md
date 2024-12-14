@@ -1,9 +1,6 @@
 # 💫 About Me:
 I am a Full stack Developer and Engineer from heart. Intrested in React, Django, JavaScript, C++, Python ,web development, app development, DSA and all ...
 <br>
-| GitHub Stats | Streak Stats |
-|--------------|--------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=auscode&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=auscode&theme=dark&hide_border=false) |
 
 | Top Languages |
 |---------------|
