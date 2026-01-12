@@ -4,7 +4,7 @@ I am a Software Developer and Engineer from heart. Intrested in solving interest
 <!--harshit mishra-->
 | Top Languages |
 |---------------|
-| ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=auscode&hide=scss&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) |
+| ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=auscode&hide=scss,typescript&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) |
 
 
 <!--harshit mishra-->
